@@ -1,0 +1,3 @@
+git init                               // Init the project
+git commit -m "Init Project"           // Do a commit
+git checkout -- .                      // Restore project
